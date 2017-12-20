@@ -61,3 +61,66 @@ C:\Users\Admin\Source\repos\Saketa_BOT_V2\Saketa_BOT_V2\bin\fa\Microsoft.Bot.Bui
 C:\Users\Admin\Source\repos\Saketa_BOT_V2\Saketa_BOT_V2\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
 C:\Users\Admin\Source\repos\Saketa_BOT_V2\Saketa_BOT_V2\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
 C:\Users\Admin\Source\repos\Saketa_BOT_V2\Saketa_BOT_V2\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Bot Application.dll.config
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Bot Application.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Bot Application.pdb
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Autofac.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Chronic.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.Bot.Builder.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.Bot.Connector.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.IdentityModel.Logging.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.IdentityModel.Protocols.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.IdentityModel.Tokens.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.Rest.ClientRuntime.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Newtonsoft.Json.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\System.Net.Http.Formatting.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\System.Web.Http.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\System.Web.Http.WebHost.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Autofac.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.Bot.Builder.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.Bot.Connector.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.IdentityModel.Logging.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.IdentityModel.Protocols.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.IdentityModel.Tokens.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\Newtonsoft.Json.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\System.Net.Http.Formatting.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\System.Web.Http.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\System.Web.Http.WebHost.xml
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\it\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\nl\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\obj\Debug\Saketa_BOT_V2.csprojResolveAssemblyReference.cache
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\obj\Debug\Saketa_BOT_V2.csproj.CoreCompileInputs.cache
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\obj\Debug\Bot Application.dll
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\obj\Debug\Bot Application.pdb
