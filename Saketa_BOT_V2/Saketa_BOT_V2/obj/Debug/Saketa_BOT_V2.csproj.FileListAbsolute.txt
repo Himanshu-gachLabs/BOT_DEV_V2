@@ -124,3 +124,4 @@ E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\obj\Debug\Saketa_BOT_V2.csproj
 E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\obj\Debug\Saketa_BOT_V2.csproj.CoreCompileInputs.cache
 E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\obj\Debug\Bot Application.dll
 E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\obj\Debug\Bot Application.pdb
+E:\BOT_GIT\BOT_DEV_V2\Saketa_BOT_V2\Saketa_BOT_V2\bin\AdaptiveCards.dll
