@@ -8,7 +8,7 @@ using System.Threading;
 using System.Threading.Tasks;
 
 namespace Saketa_BOT_V2.Dialogs
-{
+{ 
     [Serializable]
     [LuisModel("9c526256-7256-4309-8131-01bdfcaa1921", "91f3b2a0904146de8ac2d8bc07f0633a")]
     public class LuisDialog : LuisDialog<object>
